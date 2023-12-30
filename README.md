@@ -16,10 +16,7 @@ We believe in the power of community knowledge! Contribute your own best practic
 
 ## How to Use 📚
 
-1. Clone the repository.
-2. Navigate through folders to find examples relevant to your needs.
-3. Read the annotations to grasp the reasoning behind each best practice.
-4. Contribute your own examples or improvements via pull requests.
+go to wiki page [here](https://github.com/MrPunyapal/go-get-laravel/wiki)
 
 ## Examples Categories 📂
 
